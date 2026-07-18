@@ -50,13 +50,15 @@ Developed in C++ within the Arduino IDE, the firmware utilizes the DHT and Liqui
 * `loop()` Routine: Executes every 2 seconds to sample sensory data, validate transmission, and update the LCD display lines.
 
 ---
-
 ## 👥 Project Team
-* Eng. Fajr Aldajani - [https://github.com/Iiifajr](https://github.com/Iiifajr)
-* Eng. Noura Abbad Al-Qathami - [https://github.com/alotibin212-glitch](https://github.com/alotibin212-glitch)
-* Eng. Batool Falah Alguthami - [https://github.com/batoolotb90-png](https://github.com/batoolotb90-png)
-* Eng. Asayel Hussain Al-Nufaiey 
 
-##🔗 GitHub Profile
-Affiliation: Taif University
-Project Status: Completed Successfully! 🚀
+- Eng. Fajr Aldajani &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-Profile-2563eb?style=for-the-badge&logo=github)](https://github.com/liifajr)
+
+- Eng. Noura Abbad Al-Qathami &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-Profile-2563eb?style=for-the-badge&logo=github)](https://github.com/alotibin212-glitch)
+
+- Eng. Batool Falah Alguthami &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-Profile-2563eb?style=for-the-badge&logo=github)](https://github.com/batoolotb90-png)
+
+- Eng. Asayel Hussain Al-Nufaiey
+
+## 🔗 GitHub Profile Affiliation: Taif University
+### Project Status: Completed Successfully! 🚀
