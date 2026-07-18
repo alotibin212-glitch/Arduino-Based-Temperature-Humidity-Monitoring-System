@@ -52,9 +52,9 @@ Developed in C++ within the Arduino IDE, the firmware utilizes the DHT and Liqui
 ---
 ## 👥 Project Team
 
-- Eng. Fajr Aldajani &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-Profile-2563eb?style=for-the-badge&logo=github)](https://github.com/liifajr)
-
 - Eng. Noura Abbad Al-Qathami &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-Profile-2563eb?style=for-the-badge&logo=github)](https://github.com/alotibin212-glitch)
+
+- Eng. Fajr Aldajani &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-Profile-2563eb?style=for-the-badge&logo=github)](https://github.com/iiifajr)
 
 - Eng. Batool Falah Alguthami &nbsp; [![GitHub](https://img.shields.io/badge/GitHub-Profile-2563eb?style=for-the-badge&logo=github)](https://github.com/batoolotb90-png)
 
