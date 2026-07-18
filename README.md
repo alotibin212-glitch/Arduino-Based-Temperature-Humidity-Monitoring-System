@@ -6,6 +6,7 @@ A physical embedded system prototype designed to measure and display ambient env
 You can access the full project repository and documentation files via the link below:
 
 https://drive.google.com/drive/folders/1h4XUBORqX9rTnv4yuvm11DMNYmOQBmAT
+
 📊 System Architecture & High-Level Block Diagram
 The system architecture is structured into four primary operational blocks to ensure reliable end-to-end data processing and display:
 
