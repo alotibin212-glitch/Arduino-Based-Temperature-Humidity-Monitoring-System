@@ -56,6 +56,8 @@ Developed in C++ within the Arduino IDE, the firmware utilizes the DHT and Liqui
 * Eng. Noura Abbad Al-Qathami - [https://github.com/alotibin212-glitch](https://github.com/alotibin212-glitch)
 * Eng. Batool Falah Alguthami - [https://github.com/batoolotb90-png](https://github.com/batoolotb90-png)
 * Eng. Asayel Hussain Al-Nufaiey - [GitHub Profile](#)
-🔗 GitHub Profile
+
+
+##🔗 GitHub Profile
 Affiliation: Taif University
 Project Status: Completed Successfully! 🚀
